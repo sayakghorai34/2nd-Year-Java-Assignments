@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalsTriangle",
+            "request": "launch",
+            "mainClass": "PascalsTriangle",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch classpractice",
+            "request": "launch",
+            "mainClass": "classpractice",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch demojava",
+            "request": "launch",
+            "mainClass": "demojava",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch isArmstrong",
+            "request": "launch",
+            "mainClass": "isArmstrong",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch patterrrrrrn",
+            "request": "launch",
+            "mainClass": "patterrrrrrn",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeornot",
+            "request": "launch",
+            "mainClass": "primeornot",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q10",
+            "request": "launch",
+            "mainClass": "q10",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q11",
+            "request": "launch",
+            "mainClass": "q11",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q12",
+            "request": "launch",
+            "mainClass": "q12",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q13",
+            "request": "launch",
+            "mainClass": "q13",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q14",
+            "request": "launch",
+            "mainClass": "q14",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q8",
+            "request": "launch",
+            "mainClass": "q8",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch q9",
+            "request": "launch",
+            "mainClass": "q9",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOFdigitsINnumber",
+            "request": "launch",
+            "mainClass": "sumOFdigitsINnumber",
+            "projectName": "JAVA Codes_3bc1c712"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumoften",
+            "request": "launch",
+            "mainClass": "sumoften",
+            "projectName": "JAVA Codes_3bc1c712"
+        }
+    ]
+}
