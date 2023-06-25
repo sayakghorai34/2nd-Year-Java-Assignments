@@ -3,13 +3,13 @@
 
 WiFiClient client;
 
-long myChannelNumber = 1047069;
-const char myWriteAPIKey[] = "4T4KE0A5SGZLSJUA";
+long myChannelNumber = CHNNEL_NUMBER;
+const char myWriteAPIKey[] = "API KEY";
 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  WiFi.begin("yogi", "12344321");
+  WiFi.begin("SSID", "PASSWORD");
   while(WiFi.status() != WL_CONNECTED)
   {
     delay(200);
